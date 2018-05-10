@@ -1,0 +1,22 @@
+{
+    "name": "loopback-redis-cache",
+    "version": "1.0.0",
+    "description": "Caching system for Loopback through redis",
+    "main": "cache.js",
+    "scripts":
+    {},
+    "repository":
+    {
+        "type": "git",
+        "url": "git+https://github.com/Starchup/loopback-redis-cache.git"
+    },
+    "keywords": [
+        "starchup"
+    ],
+    "author": "Starchup Inc",
+    "homepage": "https://github.com/Starchup/loopback-redis-cache#readme",
+    "dependencies":
+    {
+        "redis": "2.8.0"
+    }
+}
